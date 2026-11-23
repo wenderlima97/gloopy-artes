@@ -3,3 +3,6 @@
 - semana-47: reel-02 (qui 19/11 19h), post-14 (sáb 21/11 19h), reel-03 (dom 22/11 19h)
 - semana-48: post-15 (qui 26/11 19h), post-16 (sáb 28/11 19h)
 - tools/engine: gerador das artes e do áudio (Playwright + ffmpeg), visual do manual 01-08 (sem holofote)
+
+## Proposta semana-49 (aguardando ok do dono)
+- semana-49: reel-04 (qui 03/12 19h), post-17 (sáb 05/12 19h), post-18 (dom 06/12 19h)
